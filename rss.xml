@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[Body & Mind Updates]]></title>
+		<description><![CDATA[Body & Mind Updates Podcast Channel]]></description>
+		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml</link>
+		<generator>Body & Mind Updates Publisher</generator>
+		<lastBuildDate>Thu, 11 Jun 2026 12:49:38 GMT</lastBuildDate>
+		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Body & Mind Updates]]></author>
+		<copyright><![CDATA[Body & Mind Updates]]></copyright>
+		<language><![CDATA[vi]]></language>
+		<itunes:author>Body & Mind Updates</itunes:author>
+		<itunes:summary>Body & Mind Updates Podcast Channel</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Body & Mind Updates</itunes:name>
+			<itunes:email>anhchuyenthanhthien@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="Health &amp; Fitness"/>
+		<itunes:image href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/logo.png"/>
+			
+	</channel>
+</rss>
