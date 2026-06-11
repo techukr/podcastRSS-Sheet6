@@ -5,7 +5,7 @@
 		<description><![CDATA[Body & Mind Updates Podcast Channel]]></description>
 		<link>https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml</link>
 		<generator>Body & Mind Updates Publisher</generator>
-		<lastBuildDate>Thu, 11 Jun 2026 12:49:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 11 Jun 2026 16:31:36 GMT</lastBuildDate>
 		<atom:link href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Body & Mind Updates]]></author>
 		<copyright><![CDATA[Body & Mind Updates]]></copyright>
@@ -21,5 +21,18 @@
 		<itunes:category text="Health &amp; Fitness"/>
 		<itunes:image href="https://raw.githubusercontent.com/techukr/podcastRSS-Sheet6/main/logo.png"/>
 			
+			<item>
+            <title><![CDATA[Leukemia WARNING: 7% donor crisis ]]></title>
+            <description><![CDATA[<p>At just 24 years old, Caitlin Leggett's life was upended by an acute myeloid leukemia (AML) diagnosis. When doctors prepared her sister Grace for a life-saving stem cell transplant, they made a shocking discovery: the sisters were identical twins, making Grace's stem cells unusable. Now facing a terminal six-month prognosis and a severe national donor shortage—with only 7% of the eligible UK population registered—Caitlin is in a race against time. This episode explores Caitlin's resilient fight, the critical importance of the stem cell registry, and her family's urgent 'Saving Caitlin' campaign to raise £500,000 for specialized overseas treatment.</p>]]></description>
+            <guid isPermaLink="false">e68749b5-d11c-4567-9d1a-e24a69921f13</guid>
+            <dc:creator><![CDATA[ACDT]]></dc:creator>
+            <pubDate>Thu, 11 Jun 2026 16:31:36 GMT</pubDate>
+            <enclosure url="https://archive.org/download/podcast_20260611_caitlin_leggett_aml_prognosis/2026-06-11_caitlin_leggett_aml_prognosis_Audio.mp3" length="14039803" type="audio/mpeg"/>
+            <itunes:summary><![CDATA[<p>At just 24 years old, Caitlin Leggett's life was upended by an acute myeloid leukemia (AML) diagnosis. When doctors prepared her sister Grace for a life-saving stem cell transplant, they made a shocking discovery: the sisters were identical twins, making Grace's stem cells unusable. Now facing a terminal six-month prognosis and a severe national donor shortage—with only 7% of the eligible UK population registered—Caitlin is in a race against time. This episode explores Caitlin's resilient fight, the critical importance of the stem cell registry, and her family's urgent 'Saving Caitlin' campaign to raise £500,000 for specialized overseas treatment.</p>]]></itunes:summary>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>00:15:00</itunes:duration>
+            <itunes:image href="https://archive.org/download/podcast_20260611_caitlin_leggett_aml_prognosis/2026-06-11_caitlin_leggett_aml_prognosis_Cover.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
 	</channel>
 </rss>
